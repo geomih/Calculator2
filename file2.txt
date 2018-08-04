@@ -1,0 +1,4 @@
+add 5
+divide 3
+subtract 4
+apply 15

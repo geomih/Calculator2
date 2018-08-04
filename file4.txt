@@ -1,0 +1,4 @@
+subtract 4
+multiply 0
+divide 1
+apply 4

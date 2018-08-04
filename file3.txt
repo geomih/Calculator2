@@ -1,0 +1,4 @@
+subtract 6
+subtract 0
+subtract 4
+apply 4
